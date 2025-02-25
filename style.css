@@ -1,0 +1,27 @@
+:root {
+    --primary-color: #ba9ed6;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--primary-color);
+}
+.container{
+   position: relative;
+   width: 1200px;
+   min-height: 900px;
+   margin: 0 auto;
+   padding: 5px;
+   color: #fff;
+   display: flex;
+   border-radius: 10px;
+   background-image: url();
+}
