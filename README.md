@@ -62,8 +62,9 @@ This is a simple and interactive calendar application built using HTML, CSS, and
 ## Installation
 
 1. Clone the repository or download the source code.
-2. Open the `index.html` file in your browser.
-3. Start using the calendar app!
+2. `` git clone https://github.com/bontlenkoale1/Calendar-with-todo-list ``
+3. Open the `index.html` file in your browser.
+4. Start using the calendar app!
 
 ---
 
