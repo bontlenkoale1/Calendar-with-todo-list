@@ -62,7 +62,7 @@ This is a simple and interactive calendar application built using HTML, CSS, and
 
 ## 🎨 UI Preview
 
-![UI Screenshot](screenshot.png) ![Screenshot 2025-03-11 154442](https://github.com/user-attachments/assets/e949fa59-1ff5-4e41-8bca-efea79bedc02)
+![UI Screenshot] ![Screenshot 2025-03-11 154442](https://github.com/user-attachments/assets/e949fa59-1ff5-4e41-8bca-efea79bedc02)
 
 
 
