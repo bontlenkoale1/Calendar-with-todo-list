@@ -59,6 +59,22 @@ This is a simple and interactive calendar application built using HTML, CSS, and
 
 ---
 
+
+## 🎨 UI Preview
+
+![UI Screenshot](screenshot.png) ![Screenshot 2025-03-11 154442](https://github.com/user-attachments/assets/e949fa59-1ff5-4e41-8bca-efea79bedc02)
+
+
+
+
+
+## 🚀 Live Demo  
+
+This project is deployed on **Netlify**. Click the link below to view it:  
+
+🔗 **[Live Demo](https://eclectic-praline-e2a914.netlify.app/)**  
+
+
 ## Installation
 
 1. Clone the repository or download the source code.
